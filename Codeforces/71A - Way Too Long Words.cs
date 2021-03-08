@@ -4,39 +4,41 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace 71A_Way_Too_Long_Words
-
-class Program
+namespace ConsoleApp7
 {
-    static void Main(string[] args)
+    class Program
     {
-        int n;
-        string line;
-        n = Convert.ToInt32(Console.ReadLine());
-        int sumOfSolutions;
-
-        while (n != 0)
+        static void Main(string[] args)
         {
-            line = Console.ReadLine();
-            int[] numbers = line.Split(" ");
-            int NumberOfSolutions = 0;
+            int n;
+            string line;
+            n = Convert.ToInt32(Console.ReadLine());
+            int sumOfSolutions = 0;
 
-            for (int i = 0; i < numbers.Length; i++)
+            while (n != 0)
             {
-                if (numbers[i] != 0)
-                {
-                    NumberOfSolutions++;
-                }
-                if (NumberOfSolutions >= 2)
-                {
-                    sumOfSolutions++;
-                }
-            }
-            n--;
-        }
-        Console.WriteLine(sumOfSolutions);
+                line = Console.ReadLine();
+                string[] numbers = line.Split(' ');
+                int NumberOfSolutions = 0;
 
-        Console.ReadLine();
+                for (int i = 0; i < numbers.Length; i++)
+                {
+                    if (Convert.ToInt32(numbers[i]) != 0)
+                    {
+                        NumberOfSolutions++;
+                    }
+                    if (NumberOfSolutions > 1)
+                    {
+                        sumOfSolutions++;
+                        break;
+                    }
+
+                }
+                n--;
+            }
+            Console.WriteLine(sumOfSolutions);
+
+            Console.ReadLine();
+        }
     }
 }
-
