@@ -5,7 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace 71A_Way_Too_Long_Words
-    class Program
+
+class Program
 {
     static void Main(string[] args)
     {
