@@ -1,0 +1,15 @@
+C:\Users\Dominik\source\repos\Flappy Bird\Flappy Bird\bin\Debug\Flappy Bird.exe.config
+C:\Users\Dominik\source\repos\Flappy Bird\Flappy Bird\bin\Debug\Flappy Bird.exe
+C:\Users\Dominik\source\repos\Flappy Bird\Flappy Bird\bin\Debug\Flappy Bird.pdb
+C:\Users\Dominik\source\repos\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.csprojAssemblyReference.cache
+C:\Users\Dominik\source\repos\Flappy Bird\Flappy Bird\obj\Debug\MainWindow.g.cs
+C:\Users\Dominik\source\repos\Flappy Bird\Flappy Bird\obj\Debug\App.g.cs
+C:\Users\Dominik\source\repos\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird_MarkupCompile.cache
+C:\Users\Dominik\source\repos\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird_MarkupCompile.lref
+C:\Users\Dominik\source\repos\Flappy Bird\Flappy Bird\obj\Debug\MainWindow.baml
+C:\Users\Dominik\source\repos\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.g.resources
+C:\Users\Dominik\source\repos\Flappy Bird\Flappy Bird\obj\Debug\Flappy_Bird.Properties.Resources.resources
+C:\Users\Dominik\source\repos\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.csproj.GenerateResource.cache
+C:\Users\Dominik\source\repos\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\source\repos\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.exe
+C:\Users\Dominik\source\repos\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.pdb
